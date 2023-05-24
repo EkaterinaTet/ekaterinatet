@@ -46,6 +46,8 @@
 <br/>
 
 ---
+[![codewars](https://www.codewars.com/users/EkaterinaTet/badges/small)]
+---
 
 ### 💻 Пройденные курсы:
 
