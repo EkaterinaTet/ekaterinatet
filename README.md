@@ -10,7 +10,7 @@
 
 - :zap: Регулярно пишу код, тем самым тренируя свои навыки.
 
-- :mailbox: Cвязаться со мной: [![Telegram Badge](https://img.shields.io/badge/-ekaterinaatet-skyblue?style=flat&logo=Telegram&logoColor=white)](https://t.me/ekaterinaatet) [![Mail Badge](https://img.shields.io/badge/-Mail-blue?style=flat&logo=Mail&logoColor=white)](mailto:ekaterina.psychologist@mail.ru)
+- :mailbox: Cвязаться со мной: [![Telegram Badge](https://img.shields.io/badge/-ekaterinaatet-skyblue?style=flat&logo=Telegram&logoColor=white)](https://t.me/ekaterinaatet)
 
 ---
 
@@ -60,6 +60,6 @@
 | HTML и CSS, первый шаг. Result School                    | 2023 |
 | Открытые вебинары школы IT-girlsschool                   | 2023 |
 | Введение в CSS и HTML. Sololearn                         | 2023 |
-| Java Script. YouTube                                     | 2023 |
+| Java Script. YouTube/Документация                        | 2023 |
 
 ---
