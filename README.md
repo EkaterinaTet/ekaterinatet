@@ -46,7 +46,7 @@
 <br/>
 
 ---
-[![codewars](https://www.codewars.com/users/EkaterinaTet/badges/small)]
+[![codewars](https://www.codewars.com/users/EkaterinaEmelyanova/badges/small)]
 ---
 
 ### 💻 Пройденные курсы:
