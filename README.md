@@ -2,7 +2,7 @@
 
 ---
 
-### :man_technologist: Обо мне:
+Обо мне:
 
 Я веб разработчик. С января 2023 года начался мой путь в мир IT.
 
@@ -10,7 +10,7 @@
 
 - :zap: Регулярно пишу код, тем самым тренируя свои навыки.
 
-- :mailbox: Cвязаться со мной: [![Telegram Badge](https://img.shields.io/badge/-ekaterinaatet-skyblue?style=flat&logo=Telegram&logoColor=white)](https://t.me/ekaterinaatet)
+Cвязаться со мной: [![Telegram Badge](https://img.shields.io/badge/-ekaterinaatet-skyblue?style=flat&logo=Telegram&logoColor=white)](https://t.me/ekaterinaatet)
 
 ---
 
