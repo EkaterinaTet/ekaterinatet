@@ -59,7 +59,8 @@ Contact me: [![Telegram Badge](https://img.shields.io/badge/-ekaterinaatet-skybl
 | Базовый курс по веб дизайну. Tilda. Поток                | 2023 |
 | HTML и CSS, первый шаг. Result School                    | 2023 |
 | Открытые вебинары школы IT-girlsschool                   | 2023 |
-| Введение в CSS и HTML. Sololearn                         | 2023 |
+| CSS и HTML. Sololearn/Справочники/Руководства            | 2023 |
 | Java Script. YouTube/Документация                        | 2023 |
+| React. YouTube/Документация                              | 2023 |
 
 ---
