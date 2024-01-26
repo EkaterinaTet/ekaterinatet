@@ -1,20 +1,19 @@
-# Привет, меня зовут Екатерина!
+# Hello, my name is Ekaterina!
 
 ---
 
-Обо мне:
+About me:
 
-Я веб разработчик. С января 2023 года начался мой путь в мир IT.
+I am a frontend developer. Since January 2023, my journey into the world of IT has begun.
+- :seedling: I'm currently learning React.
 
-- :seedling: В настоящее время осваиваю JavaScript.
+- :zap:I write code regularly, thereby training my skills.
 
-- :zap: Регулярно пишу код, тем самым тренируя свои навыки.
-
-Cвязаться со мной: [![Telegram Badge](https://img.shields.io/badge/-ekaterinaatet-skyblue?style=flat&logo=Telegram&logoColor=white)](https://t.me/ekaterinaatet)
+Contact me: [![Telegram Badge](https://img.shields.io/badge/-ekaterinaatet-skyblue?style=flat&logo=Telegram&logoColor=white)](https://t.me/ekaterinaatet)
 
 ---
 
-### 🤝 Социальные сети:
+### 🤝 Social networks:
 
  <a href="https://vk.com/id47677518" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
@@ -25,7 +24,7 @@ Cвязаться со мной: [![Telegram Badge](https://img.shields.io/badge
 
 ---
 
-### 💻 Технологии / 🛠 Инструменты:
+### 💻 Technologies / 🛠 Tools:
 
 <table><tr><td valign="top" width="100%">
 
@@ -39,6 +38,7 @@ Cвязаться со мной: [![Telegram Badge](https://img.shields.io/badge
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
 <a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" /></a>  
 <a href="https://gulpjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gulp-plain.svg" alt="gulp.js" height="50" /></a>  
+ <a href="https://react.dev/" target="_blank"><img style="margin: 10px" src="https://camo.githubusercontent.com/91b30ff3d7d15143c1dbba499a8ad310bd829fbd45f65cacaeea175fac5d85aa/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f72656163742d6f726967696e616c2d776f72646d61726b2e737667" alt="react" height="50" /></a>  
 </div>
 
 </td></tr></table>
@@ -49,9 +49,9 @@ Cвязаться со мной: [![Telegram Badge](https://img.shields.io/badge
 [![codewars](https://www.codewars.com/users/EkaterinaEmelyanova/badges/small)]
 ---
 
-### 💻 Пройденные курсы:
+### 💻 Courses completed:
 
-| Курсы                                                    | Год  |
+| Courses                                                  | Год  |
 | -------------------------------------------------------- | :--: |
 | Профессия Копирайтер. Школа Наталии Реген                | 2019 |
 | Создание одностраничных сайтов на Tilda. Restart-academy | 2019 |
