@@ -46,21 +46,21 @@ Contact me: [![Telegram Badge](https://img.shields.io/badge/-ekaterinaatet-skybl
 <br/>
 
 ---
-[![codewars](https://www.codewars.com/users/EkaterinaEmelyanova/badges/small)]
+[![codewars](https://www.codewars.com/users/EkaterinaEmelianova/badges/small)]
 ---
 
 ### 💻 Courses completed:
 
 | Courses                                                  | Год  |
 | -------------------------------------------------------- | :--: |
-| Профессия Копирайтер. Школа Наталии Реген                | 2019 |
-| Создание одностраничных сайтов на Tilda. Restart-academy | 2019 |
-| Дизайнер сайтов на Tilda. Restart-academy                | 2019 |
-| Базовый курс по веб дизайну. Tilda. Поток                | 2023 |
-| HTML и CSS, первый шаг. Result School                    | 2023 |
-| Открытые вебинары школы IT-girlsschool                   | 2023 |
-| CSS и HTML. Sololearn/Справочники/Руководства            | 2023 |
-| Java Script. YouTube/Документация                        | 2023 |
-| React. YouTube/Документация                              | 2023 |
+| Copywriter. School of Natalia Regen                      | 2019 |
+| Creating one-page websites on Tilda. Restart-academy     | 2019 |
+| Website designer at Tilda. Restart-academy               | 2019 |
+| Basic course in web design. Tilda. Flow                  | 2023 |
+| HTML and CSS, first step. Result School                  | 2023 |
+| Open webinars of IT-girlsschool                          | 2023 |
+| CSS and HTML. Sololearn/References/Manuals               | 2023 |
+| Java Script. YouTube/Documentation                       | 2023 |
+| React. YouTube/Documentation                             | 2023 |
 
 ---
