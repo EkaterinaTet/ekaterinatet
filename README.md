@@ -9,7 +9,7 @@ I am a frontend developer. Since January 2023, my journey into the world of IT h
 
 - :zap:I write code regularly, thereby training my skills.
 
-Contact me: [![Telegram Badge](https://img.shields.io/badge/-ekaterinaatet-skyblue?style=flat&logo=Telegram&logoColor=white)](https://t.me/ekaterinaemeli)
+Contact me: [![Telegram Badge](https://img.shields.io/badge/-ekaterinaemeli-skyblue?style=flat&logo=Telegram&logoColor=white)](https://t.me/ekaterinaemeli)
 
 ---
 
