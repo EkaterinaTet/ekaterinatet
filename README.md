@@ -39,6 +39,7 @@ Contact me: [![Telegram Badge](https://img.shields.io/badge/-ekaterinaemeli-skyb
 <a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" /></a>  
 <a href="https://gulpjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gulp-plain.svg" alt="gulp.js" height="50" /></a>  
  <a href="https://react.dev/" target="_blank"><img style="margin: 10px" src="https://camo.githubusercontent.com/91b30ff3d7d15143c1dbba499a8ad310bd829fbd45f65cacaeea175fac5d85aa/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f72656163742d6f726967696e616c2d776f72646d61726b2e737667" alt="react" height="50" /></a>  
+ <a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="redux" height="50" /></a>  
 </div>
 
 </td></tr></table>
