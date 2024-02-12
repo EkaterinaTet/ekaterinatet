@@ -18,7 +18,7 @@ Contact me: [![Telegram Badge](https://img.shields.io/badge/-ekaterinaemeli-skyb
  <a href="https://vk.com/id47677518" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
     </a>
-<a href="https://instagram.com/katerinatet_" target="_blank">
+<a href="https://instagram.com/katerina.emeli" target="_blank">
       <img src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491580635-yumminkysocialmedia26_83102.png" width="40" height="40" alt="INST Badge"/>
     </a>
 
